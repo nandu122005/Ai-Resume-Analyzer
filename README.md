@@ -27,3 +27,7 @@ Ensure that you have Python 3.x installed.
    ```bash
    git clone https://github.com/your-username/ai-resume-analyzer.git
    cd ai-resume-analyzer
+
+
+
+
