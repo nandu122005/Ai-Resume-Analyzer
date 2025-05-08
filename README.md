@@ -29,6 +29,6 @@ Ensure that you have Python 3.x installed.
    cd ai-resume-analyzer
 
 ### samples:
-https://github.com/nandu122005/Ai-Resume-Analyzer/blob/main/Screenshot%202025-05-08%20221404.png?raw=true
+[https://github.com/nandu122005/Ai-Resume-Analyzer/blob/main/Screenshot%202025-05-08%20221404.png?raw=true](https://github.com/nandu122005/Ai-Resume-Analyzer/blob/e05d1fe30fa95090da5922ba7e990747bced6df1/Screenshot%202025-05-08%20221404.png)
 
 
