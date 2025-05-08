@@ -28,6 +28,7 @@ Ensure that you have Python 3.x installed.
    git clone https://github.com/your-username/ai-resume-analyzer.git
    cd ai-resume-analyzer
 
-
+### samples:
+https://github.com/nandu122005/Ai-Resume-Analyzer/blob/main/Screenshot%202025-05-08%20221404.png?raw=true
 
 
